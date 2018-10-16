@@ -1,8 +1,8 @@
 # TravisTest
 
-Build | Build status
------------- | -------------
-Master | ![Image of Yaktocat](https://travis-ci.org/jvjeuc/TravisTest.svg?branch=master)
+Build | Build status | Coverall.io 
+------------ | ------------- | -------------
+Master | ![Image of Yaktocat](https://travis-ci.org/jvjeuc/TravisTest.svg?branch=master) | [![Coverage Status](https://coveralls.io/repos/github/jvjeuc/TravisTest/badge.svg)](https://coveralls.io/github/jvjeuc/TravisTest)
 
 En test af Travis CI
 
