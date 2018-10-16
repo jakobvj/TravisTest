@@ -14,6 +14,10 @@ Her kommer kort vejledning til at få dit projekt integreret med den gratis udga
 
     Under udvikling
 
+### Whats Next...
+
+    Igang med at integrere [Coverall.io](https://coveralls.io)
+
 
 ## Contributing
 
