@@ -1,2 +1,2 @@
 language: csharp
-solution: "TravisTest.sln"
+solution: "Travis.sln"
